@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title> Robotics </title>
+    <link rel= "stylesheet" href= "Styling.css">
+  </head>
+  
+  <body>
+    <div>
+      <h1> <font color= "gray"> Robotics </h1> </font>
+    </div>
+    
+    <div>
+      <h2> <font color= "blue"> Introduction </h2> </font>
+    </div>
+    
+    <p>
+      <h5> Robotics is an activity worldwide that people do. In it, you have to build a robot, code it, and then bring it to </h5>
+      <h5> <div> competition. There are four main types of robotics: FLL, WRO, OPEN, and VEX.</h5> </div>
+    </p>
+    
+    <div>
+      <h2> <font color= "purple> FLL Robotics </h2> </font>
+    </div>
+    
+    <p>
+      <h5> FLL robotics stands for First Lego League. It is coded by coding blocks and built by LEGO blocks. There is a challenge </h5>
+      <h5> <div> every single year that you have to do. 2019's challenge was the City Shaper, where you had to help make the city </h5> </div>
+      <h5> <div> smarter using your robot. Each year has the Game part of it and the Innovation part of it, where you have to use </h5> </div>
+      <h5> <div> robots and your innovation smarts to fullfill the year's topic. In 2019, contestants ere supposed to find a problem </h5> </div>
+      <h5> <div> in the city and try to solve it. </h5> <div>
