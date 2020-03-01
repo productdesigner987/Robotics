@@ -2,4 +2,31 @@
 
 body {
   font-family: 'PT Serif', serif;
-} 
+}
+
+
+.navbar {
+  overflow:hidden;
+  background-color: #5A1E39;
+}
+
+.navbar a {
+  float:left;
+  display: block;
+  color:  #08ff00;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: # #fbff00;
+  color: #08ff00;
+}
+
+.navbar a.active {
+  background-color: #FFFFFF;
+  color: Black;
+
+}
